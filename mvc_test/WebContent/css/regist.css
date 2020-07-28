@@ -1,0 +1,30 @@
+@import "./reset.css";
+
+body {
+    height: 100vh;
+    background: url(../img/28.jpg) no-repeat left top/100% 100%;
+}
+
+form font{
+    margin-left: 650px;
+}
+
+form input{
+    width: 200px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+form:first-child{
+    margin-top: 160px;
+}
+
+form font{
+    font-size: 24px;
+}
+
+form .submit{
+    margin-left: 790px;
+    height: 30px;
+    width: 80px;
+}

@@ -1,0 +1,65 @@
+@import "./reset.css";
+
+body {
+    height: 100vh;
+    background: url(../img/57.jpg) no-repeat left top/100% 100%;
+}
+
+form font{
+    margin-left: 650px;
+}
+
+form:first-child{
+    margin-top: 60px;
+}
+
+form font{
+    font-size: 20px;
+}
+
+form .submit{
+    margin-left: 725px;
+    height: 30px;
+    width: 80px;
+}
+
+form a{
+	color:blue;
+	margin-left: 720px;
+	text-decoration:underline;
+}
+
+
+p{
+   
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    line-height: 50px;
+   
+}
+
+table{
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+table tr{
+    
+    height: 30px;
+    line-height: 30px;
+    border: 2px solid black;
+}
+
+table tr td{
+     border: 2px solid black;
+}
+
+
+table .first{
+    border: 2px;
+    font-weight: bold;
+    text-align: center;
+}
